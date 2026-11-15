@@ -1,4 +1,4 @@
-```markdown
+markdown
 # LoL Esports Insight
 
 英雄联盟职业比赛数据分析项目。
@@ -14,4 +14,3 @@
 
 ## 数据来源
 Oracle's Elixir、Leaguepedia，仅用于非商业研究。本项目不参与任何形式的电竞博彩。
-```
